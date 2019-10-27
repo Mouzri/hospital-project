@@ -28,4 +28,4 @@ best <- function(sta, cause){
     return("Error outcome")
   }
 }
-#handling the ties
+
